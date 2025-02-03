@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd1c27a6ef7e446",
+        "id": "1ffd686d33367d35",
         "type": "tabs",
         "children": [
           {
-            "id": "c81e9bfce7cfbfac",
+            "id": "0978b55eb675b076",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41213a2396ca3a41",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81e9bfce7cfbfac",
+  "active": "9008bb5e6c819ad5",
   "lastOpenFiles": [
     "source/_posts/test.md",
     "source/_posts/hello-world.md",
