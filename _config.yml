@@ -41,7 +41,7 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: true
+relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
@@ -109,6 +109,13 @@ deploy:
 markdown:
   plugins:
     - '@renbaoshuo/markdown-it-katex'
+  images:
+    prepend_root: true
+    post_asset: true
 
 backlink:
   enable: true
+
+# marked:
+  # prependRoot: true
+  # postAsset: true

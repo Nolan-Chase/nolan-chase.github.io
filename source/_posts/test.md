@@ -5,4 +5,4 @@ tags:
 ---
 这是一个双向链接：[[hello-world]]
 
-![](../images/ab.png)
+![](ab.png)
