@@ -109,9 +109,9 @@ deploy:
 markdown:
   plugins:
     - '@renbaoshuo/markdown-it-katex'
-  # images:
-    # prepend_root: true
-    # post_asset: true
+  images:
+    prepend_root: true
+    post_asset: true
 
 backlink:
   enable: true
