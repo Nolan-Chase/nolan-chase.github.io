@@ -109,4 +109,3 @@ deploy:
 markdown:
   plugins:
     - '@renbaoshuo/markdown-it-katex'
-    # - '@Cyrusky/hexo-backlink'
