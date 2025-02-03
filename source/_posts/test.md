@@ -5,4 +5,5 @@ tags:
 ---
 这是一个双向链接：[[hello-world]]
 
-![[Pasted image 20250203174147.png]]
+
+![](ab.png)
