@@ -6,4 +6,4 @@ tags:
 这是一个双向链接：[[hello-world]]
 
 
-![](ab.png)
+![](/_posts/ab.png)
