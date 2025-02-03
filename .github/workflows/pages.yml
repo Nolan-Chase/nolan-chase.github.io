@@ -38,7 +38,6 @@ jobs:
           npm un hexo-renderer-kramed --save || true
           npm install hexo-renderer-markdown-it --save
           npm install katex @renbaoshuo/markdown-it-katex --save
-          npm un hexo-obsidian-backlink --save || true
           npm install hexo-backlink --save
       - name: Build
         run: npm run build
